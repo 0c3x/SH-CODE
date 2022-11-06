@@ -1,2 +1,2 @@
 # SH-CODE
-Alguns Script em Bash Linux.
+SCRIPTS DE AUTOMACAO LINUX
